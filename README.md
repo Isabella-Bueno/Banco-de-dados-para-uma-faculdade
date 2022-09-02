@@ -187,4 +187,6 @@ Uma tabela está na 2º forma normal quando:
 
 Analisando não foi necessário fazer nenhuma alteração após avaliar a 3º forma Normal
 
+---
 
+Agora vamos criar as tabelas no banco de dados MySQL e inserir os dados.
